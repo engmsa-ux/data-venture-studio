@@ -2,9 +2,11 @@
 
 > **تنبيه:** هذا المستند نسخة عمل تُحدَّث بعد كل مقابلة. كل معلومة في عمود «ما نعرفه» موثقة برابط مصدرها. كل ما في عمود «ما نفترضه» بلا دليل بعد — وهذا ما ستختبره المقابلات.
 
-## نطاق المجال (من البوابة)
+## نطاق العمل المبدئي (كما وصفه أعضاء الفريق)
 
-الهدر في مخزون المطاعم في إسطنبول: مطاعم إسطنبول تفقد قيمة (بضاعة، وقت، مال) في شرائها وتخزينها واستهلاكها للمواد الغذائية، دون قياس واضح لهذا الفاقد.
+> **تنبيه:** النص الرسمي للنطاق في البوابة خلف تسجيل دخول ولم نقرأه. النطاق أدناه كما وصفه الفريق: **الهدر في مخزون المطاعم في إسطنبول**. يجب مطابقته مع نص البوابة في أول لقاء.
+
+الوصف المبدئي: مطاعم إسطنبول تشتري وتخزن وتستهلك مواد غذائية — و**نفترض** (دون دليل بعد) أنها تفقد قيمة مالية كبيرة دون قياس واضح لهذا الفاقد. هذا الافتراض هو ما تختبره المقابلات (راجع أ1).
 
 ---
 
@@ -13,13 +15,13 @@
 | # | الحقيقة | المصدر |
 |---|---|---|
 | 1 | تُهدر في تركيا نحو 23 مليون طن طعام سنوياً بحسب تقرير TİSVA للإسراف 2025، وقسم مهم من هذا الفاقد يقع في أماكن الاستهلاك خارج المنزل | [Turizm Ajansı عن تقرير TİSVA 2025](https://www.turizmajansi.com/haber/restoran-sahipleri-alarmda-yeme-icme-sektorunde-gizli-kriz-patladi-h71823) |
-| 2 | دراسة أكاديمية على 29 مطعماً في إسطنبول (2021) وجدت أن 58.6% فقط يقولون إنهم يتتبعون الهدر، و41.3% لا يتتبعونه إطلاقاً | [Çirişoğlu & Akoğlu 2021، DergiPark](https://dergipark.org.tr/tr/download/article-file/1732621) |
+| 2 | دراسة أكاديمية على 29 مطعماً **سياحياً معتمداً** في إسطنبول (منشورة 2021) وجدت أن 58.6% فقط يقولون إنهم يتتبعون الهدر، و41.3% لا يتتبعونه إطلاقاً — وأكبر مصدر هدر عندهم كان قسم الخدمة، لا المخزون | [Çirişoğlu & Akoğlu، DergiPark](https://dergipark.org.tr/tr/download/article-file/1732621) |
 | 3 | في الدراسة نفسها: 79.3% قالوا إن قسم الخدمة هو أكثر الأقسام إنتاجاً للهدر، والخضار أكثر الأصناف هدراً (68.9%)، وأهم أسباب هدر المطبخ: توقعات الزبائن (31.1%) وإهمال الموظفين (21%) | [الدراسة نفسها](https://dergipark.org.tr/tr/download/article-file/1732621) |
 | 4 | 48% من نفايات إسطنبول عضوية، وتشغّل بلدية إسطنبول منشأة حيوية بسعة 130 طن/يوم لهدر الطعام والمطبخ | [İBB — منشأة البيوميتانة](https://cevre.ibb.istanbul/atik-yonetimi-mudurlugu-sube-mudurlugu/biyometanizasyon-tesisi/) |
 | 5 | أصحاب مطاعم فعليون يعدّون المخزون يدوياً بجداول بيانات وتستغرق العملية ساعات أسبوعياً، والكثيرون يعدّونها عادة مكتسبة لا قراراً اقتصادياً | [r/restaurateur — Just spent 2 hours doing inventory](https://www.reddit.com/r/restaurateur/comments/1lkppht/just_spent_2_hours_doing_inventory_again_whats/) |
 | 6 | برامج إدارة المخزون العالمية تشكو منها المراجعات: بطء دعم MarketMan، إلغاء يتطلب إشعاراً 60 يوماً، مشاكل مزامنة في Petpooja وAloha Cloud | [Capterra — مراجعات MarketMan](https://www.capterra.com/p/136439/Marketman-Restaurant-Inventory/reviews/)، [G2 — فئة برامج مخزون المطاعم](https://www.g2.com/categories/restaurant-inventory-management) |
-| 7 | توجد في تركيا حلول لبيع الفائض: SonPaket (انضمام مجاني وعمولة من البيع فقط)، Yenir (تعمل مع سلاسل مثل Simit Sarayı وCoffemania)، Fazla Gıda (أنقذت 18 ألف طن خلال 4 سنوات) | [SonPaket](https://sonpaket.app/)، [İklim Gazetesi عن Daha Taze وYenir](https://iklimgazetesi.com/dahataze-yenir/)، [Gazete Oksijen عن Fazla Gıda](https://gazeteoksijen.com/yazarlar/elif-ergu-demiral/dort-yilda-18-bin-ton-fazla-gidayi-kurtardik-28059) |
-| 8 | تطبيق Too Good To Go العالمي غير متوفر في تركيا (يعمل في 19 دولة دونها) — أي أن سوق بيع الفائض في تركيا يغطيه لاعبون محليون فقط | [Anadolu Agency](https://www.aa.com.tr/en/environment/too-good-to-go-app-helps-sell-surplus-food-at-discounted-prices/3787330) |
+| 7 | توجد في تركيا منصات لبيع الفائض (وجودها موثق من صفحاتها): SonPaket (انضمام مجاني وعمولة من البيع فقط)، Yenir (تعمل مع سلاسل مثل Simit Sarayı وCoffemania)، Fazla Gıda (تقول إنها أنقذت 18 ألف طن خلال 4 سنوات) — **تغطيتها الفعلية لمطاعم إسطنبول الصغيرة غير محسومة** | [SonPaket](https://sonpaket.app/)، [İklim Gazetesi عن Daha Taze وYenir](https://iklimgazetesi.com/dahataze-yenir/)، [Gazete Oksijen عن Fazla Gıda](https://gazeteoksijen.com/yazarlar/elif-ergu-demiral/dort-yilda-18-bin-ton-fazla-gidayi-kurtardik-28059) |
+| 8 | مقال Anadolu Agency يذكر أن Too Good To Go تعمل في 19 سوقاً **دون ذكر تركيا** — التوفر الحالي في تركيا غير مؤكد ويتطلب تحققاً من مصدر رسمي | [Anadolu Agency](https://www.aa.com.tr/en/environment/too-good-to-go-app-helps-sell-surplus-food-at-discounted-prices/3787330) |
 | 9 | برامج نقاط البيع التركية (مثل Simpra) تملك وحدات مخزون بخفض حسب الوصفة وتتبع للهدر، لكنها تُسعَّر بالطلب لكل فرع — أي أن الحلول المؤسسية موجودة لكن حاجتها واضحة | [Simpra — برنامج تتبع المخزون](https://simprasuite.com.tr/restoran-otomasyonu/stok-takip-programi/) |
 
 ## ما نفترضه (بلا دليل — للاختبار في المقابلات)
